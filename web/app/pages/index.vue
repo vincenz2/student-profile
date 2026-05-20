@@ -235,5 +235,30 @@ const  nilalamanngcolum = [
         lname: 'Garcia',
         fname: 'Vincent'
     },
+    {
+        stuno: '2400328', 
+        lname: 'Garcia',
+        fname: 'Vincent'
+        mname: 'Canlas'
+    },
+ 
+    {
+        stuno: '2400328', 
+        lname: 'Garcia',
+        fname: 'Vincent'
+        mname: 'Canlas'
+        ylevel: '2025-2026'
+    },
+ 
+
+    {
+        stuno: '2400328', 
+        lname: 'Garcia',
+        fname: 'Vincent'
+        mname: 'Canlas'
+        ylevel: '2025-2026'
+        csection: 'A'
+    },
+    
 ]
 </script>
